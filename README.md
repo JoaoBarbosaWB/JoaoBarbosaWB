@@ -43,7 +43,6 @@
 | Missão | Sobre | Lançamento |
 | :--- | :--- | :--- |
 | 📁 [Projeto-Estudantil](https://github.com/JoaoBarbosaWB/Projeto-Estudantil) | Projeto Estudantil, visando aprimoramento na parte técnica, lógica e prática. | [Ver repositório](https://github.com/JoaoBarbosaWB/Projeto-Estudantil) |
-| 📁 [Projeto-Pessoal](https://github.com/JoaoBarbosaWB/Projeto-Pessoal) | Repositório de projetos pessoais. | [Ver repositório](https://github.com/JoaoBarbosaWB/Projeto-Pessoal) |
 
 ---
 
