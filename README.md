@@ -5,7 +5,7 @@
 
 <!-- Subtítulo Animado / Digitação -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=9457EB&center=true&vCenter=true&width=430&lines=%3E+Construindo+sites+modernos+%E2%9A%A1;%3E+Estudante+de+Engenharia+de+Software;%3E+Explorando+o+universo+do+c%C3%B3digo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=9457EB&center=true&vCenter=true&width=450&lines=%3E+Ampliando+o+meu+conhecimento+%E2%9A%A1;%3E+Estudante+de+Engenharia+de+Software;%3E+Explorando+o+universo+do+c%C3%B3digo" alt="Typing SVG" />
 </p>
 
 <!-- Links Rápidos de Navegação -->
